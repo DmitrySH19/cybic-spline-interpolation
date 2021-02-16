@@ -1,3 +1,3 @@
 # cybic-spline-interpolation
 cybic spline interpolation
-![alt text](screnshots/filename.png "")
+![alt text](screnshots/screen.png "")
